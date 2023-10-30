@@ -11,6 +11,8 @@ public class Task2 {
 			
 		}
 		
+		//second commit to gitHub (GIT Java Core lesson 2)
+		
 	}
 
 }

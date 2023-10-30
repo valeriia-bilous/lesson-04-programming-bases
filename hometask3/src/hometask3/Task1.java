@@ -1,7 +1,7 @@
 package hometask3;
 
 public class Task1 {
-
+	
 	public static void main(String[] args) {
 
 		/*for(int i = 1; i <=55; i++) {
@@ -22,5 +22,7 @@ public class Task1 {
 		}
 		
 	}
+	
+	//second commit to gitHub (GIT Java Core lesson 2)
 
 }
